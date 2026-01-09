@@ -24,3 +24,5 @@ The implementation begins by importing the required Python library, Matplotlib, 
 
 OUTPUT:
 
+  ![Image](https://github.com/user-attachments/assets/3cffbc71-ac91-47ca-b30c-e1955b7fb48e)
+
