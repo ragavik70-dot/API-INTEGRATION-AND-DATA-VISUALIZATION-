@@ -23,4 +23,4 @@ The objective of this task is to demonstrate how Python can be used to integrate
 The implementation begins by importing the required Python library, Matplotlib, which is widely used for creating static, animated, and interactive visualizations. The weather data, such as days of the week and corresponding temperature values, is stored in lists. These values represent the temperature readings that would typically be retrieved from an external weather API in JSON format.
 
 OUTPUT:
-![Image](https://github.com/user-attachments/assets/6c95a1c4-23ca-42ca-a740-686933e025b3)
+
